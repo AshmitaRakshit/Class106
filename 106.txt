@@ -1,0 +1,7 @@
+Corelation varies from -1 to 1
+1- two data sets are positively corelated
+-1- two data sets are inversely corelated
+0- data sets are not corelated
+
+Corelation is very important concept for data scientist.
+It can help us to predict future data based on previously collected data.
